@@ -7,4 +7,4 @@ Conceber, implementar e testar métodos de otimização que procurem a solução
 ## Colaboradores
 [**Rui Jorge Fernandes Canas**](https://github.com/ruijfcanas "**Rui Jorge Fernandes Canas**")
 
-**Tiago Filipe Dinis Oliveira **
+**Tiago Filipe Dinis Oliveira**
